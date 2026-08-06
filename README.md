@@ -395,6 +395,7 @@ The pipeline code (Python, SQL, docs) is provided for educational use within thi
 
 **Instructor:**
 - Venkat Potamsetti ([LinkedIn](https://linkedin.com/in/venkat-potamsetti)) — Physiotherapist, clinic owner, data engineer in training, bootcamp designer
+- If the link does't work use this www.linkedin.com/in/venkat-potamsetti-projectmanager-businessdataanalyst 
 
 **Cohort:** August 2026 LSA Learning & Development Group
 
