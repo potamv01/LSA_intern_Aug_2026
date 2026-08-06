@@ -296,7 +296,7 @@ git push origin fix-duplicate-rows
 ## 📞 Getting Help
 
 ### Resources
-- **Data questions:** [NHSBSA Data Services](mailto:DataServicesSupport@nhsbsa.nhs.uk) (quote the dataset name)
+- **Data questions:** [NHSBSA Data Services](mailto:DataServicesSupport@nhsbsa.nhs.uk) ((https://opendata.nhsbsa.net/dataset/secondary-care-medicines-data-indicative-price) )
 - **Python help:** [Real Python](https://realpython.com/), [w3schools](https://w3schools.com/python/), ChatGPT
 - **SQL help:** [SQLite docs](https://www.sqlite.org/docs.html), [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
 - **Git help:** [GitHub Docs](https://docs.github.com/), [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
@@ -476,4 +476,4 @@ Build with that in mind. Good luck! 🚀
 
 **Last updated:** August 6, 2026  
 **Version:** 1.0  
-**Maintained by:** [Your Name / Instructor]
+**Maintained by:** Venkat Potamsetti
