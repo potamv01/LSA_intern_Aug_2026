@@ -112,7 +112,7 @@ scmd-data-engineering/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_ORG/scmd-data-engineering.git
+git clone https://github.com/potamv01/LSA_intern_Aug_2026
 cd scmd-data-engineering
 ```
 
